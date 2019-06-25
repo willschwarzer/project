@@ -12,9 +12,6 @@ apple
 damson
 gooseberry
 nectarine
-lime
-passionfruit
-kiwi fruit
 dragonfruit
 plum/prune
 cloudberry
